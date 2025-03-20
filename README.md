@@ -39,9 +39,10 @@
 
 
 ## 🏆 Competitive Programming & Coding  
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@njaya100)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/c8dccb83be72)  
 
-<iframe src="https://www.hackerrank.com/certificates/iframe/c8dccb83be72" width="600" height="400"></iframe>
+🎖️ **Check out my HackerRank Certificate:**  
+➡️ [View Certificate](https://www.hackerrank.com/certificates/c8dccb83be72)
 ---
 
 ## 💬 Let's Connect  
