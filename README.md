@@ -1,5 +1,6 @@
-<h1 align="center">Hello, I'm Sanjaya Jayasinghe 👋</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | Software Engineering Undergraduate at SLIIT</h3>
+# Hi there, I'm Sanjaya Jayasinghe 👋
+
+### 🚀 Passionate Full-Stack Developer | Software Engineering Undergraduate at SLIIT
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjaya1105&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -7,72 +8,59 @@
 
 ---
 
-### 🌱 Currently Exploring  
-- 🔥 **MERN Stack, AWS, Docker**  
-- ⚡ Love to solve problems with **Java & C++**  
-
-### 💬 Let's Connect  
-📩 **Email:** njaya100@gmail.com  
-📞 **Phone:** +94 0769992646  
-
-#### 🏆 Competitive Programming & Coding  
-<a href="https://www.hackerrank.com/@njaya100" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="40" />
-</a>  
-
----
+## 🌱 Currently Exploring  
+- 🔥 **MERN Stack | AWS | Docker | Kubernetes**  
+- ⚡ Passionate about **Problem Solving (Java, C++)**
 
 ## 🛠️ Tech Stack & Tools  
-
 ### **Languages & Frameworks**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### **Front-End & Back-End**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" height="50"/>
-</p>
+### **Frontend & Backend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-### **Database & Cloud**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>
-</p>
+### **Databases & Cloud**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### **DevOps & Tools**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanjaya1105&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaya1105&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🚀 Want to collaborate?  
-💡 I'm always excited about **new projects, collaborations, and open-source contributions!** Let's create something amazing together.  
+## 🏆 Competitive Programming & Coding  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@njaya100)
 
 ---
 
-🔗 **Let's connect on [LinkedIn](https://www.linkedin.com/in/sanjaya-jayasinghe-141537253/) & [Twitter](https://x.com/SanjayaJayasi14)!**  
+## 💬 Let's Connect  
+📩 **Email:** njaya100@gmail.com  
+📞 **Phone:** +94 0769992646  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-jayasinghe-141537253/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanjayaJayasi14)  
+
+---
+
+## 🚀 Want to collaborate?  
+💡 I'm always excited about **new projects, collaborations, and open-source contributions!** Let's create something amazing together.
