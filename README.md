@@ -46,7 +46,7 @@
 ---
 
 ## 💬 Let's Connect  
-📩 **Email:** njaya100@gmail.com  
+📩 **Email:** sanjayajayasinghe2001@gmail.com
 📞 **Phone:** +94 0769992646  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-jayasinghe-141537253/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SanjayaJayasi14)  
